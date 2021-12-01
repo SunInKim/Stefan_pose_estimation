@@ -1,0 +1,10 @@
+string req_name
+string prefix
+---
+# Integer class IDs for each bounding box
+geometry_msgs/Vector3[] transition
+geometry_msgs/Quaternion[] rotation
+
+# String class IDs for each bouding box
+string class_name
+bool has_obj

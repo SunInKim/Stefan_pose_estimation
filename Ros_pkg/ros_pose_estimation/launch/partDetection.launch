@@ -1,0 +1,3 @@
+<launch>
+<node pkg="beginner_tutorials" type="my_service"  name="part_detection" args="false" output="screen"/>
+</launch>
