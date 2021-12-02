@@ -1,14 +1,12 @@
 # Stefan_pose_estimation
 
-Pose estimation algorithm using deep learning base on RGB image and point cloud matching
+This system is to estimate the pose of stephan chair parts by using image-based deep learning and point cloud.
 
-The deep learning alogorithm consists of YOLO-v3 for object detection and Angle-net for angle estimation
+The structure of the system is as follows.
 
-In this repository, the Angle-net will bee covered and the code for YOLO-v3 can be found at the following URL
+figure
 
-URL for YOLO-v3: https://github.com/eriklindernoren/PyTorch-YOLOv3
+This system is divided into deep learning learning part and ROS package.
 
-# Angle-net Structure
+자세한 설명은 각 폴더에서 확인할 수 있다.
 
-# Dataset
-google drive : 
