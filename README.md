@@ -4,7 +4,7 @@ This system is to estimate the pose of stephan chair parts by using image-based 
 
 The parts of Stefan's chair are as follows.
 
-
+![re_4 Stephan_part](https://user-images.githubusercontent.com/50347012/144415943-569faecc-bd4f-4d92-99e6-5470de3bac7f.png)
 
 The structure of the system is as follows.
 
