@@ -16,7 +16,8 @@ Through this, the initial posethe chair part in 2D space can be estimated.
 
 The structure of Angle-net is as follows.
 
-figure
+![re_re_angle_net_structure](https://user-images.githubusercontent.com/50347012/144415227-0bb676e8-9d78-4f3e-8b24-5cf02dea9683.png)
+
 
 ## Dataset
 
