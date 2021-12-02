@@ -8,5 +8,5 @@ figure
 
 This system is divided into deep learning learning part and ROS package.
 
-자세한 설명은 각 폴더에서 확인할 수 있다.
+Detailed descriptions can be found in each folder.
 
